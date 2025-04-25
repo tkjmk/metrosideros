@@ -4,7 +4,7 @@ This repository stores custom Python scripts that I wrote for the main project o
 
 
 # Scripts
-Running any of the scripts with the -h flag will give more information on their usage. Below I briefly discuss the usage of each of the scripts in the `mainproject_scripts` dir.
+Running any of the scripts with the -h flag will give more information on their usage. Below I briefly describe each of the scripts in the `mainproject_scripts` dir.
 ## calculate_fst.py
 This script does calculates FST using various estimators by taking in a VCF file with SNP data for two populations.
 It was used to calculate the FST values that were input into MINOTAUR and GppFst.
