@@ -14,7 +14,7 @@ It was used to remove the effects of linkage between SNPs for analyses, and 2 SN
 ## convert_vcf012_to_nexus.py
 This script takes a .012 file generated from a VCF by VCFTOOLS to a nexus file.
 It was used as input into BEAUti to generate an XML file for SNAPP.
-# percentidentity_fasta.py
+## percentidentity_fasta.py
 This script compares pairwise every individual from two populations and calculate the within species and between species percent identity in sequence.
 It was used to estimate a prior for SNAPP.
 ## esimate_dxy.py
