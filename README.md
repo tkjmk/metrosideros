@@ -4,7 +4,16 @@ This repository stores custom Python scripts that I wrote for the main project o
 
 
 # Scripts
-Running any of the scripts with the -h flag will give more information on their usage. Below I briefly describe each of the scripts in the `mainproject_scripts` dir.
+These scripts are made to be run from your command line. Running any of the scripts with the -h flag will give a detailed explanation on their usage. Below, I provide a brief description of each of the scripts in the `scripts` dir.
+
+```bash
+python3 calculate_fst.py -h # to get help for running a script.
+
+# example usage of the script calculate_fst.py
+python3 calculate_fst.py -i myvcf.vcf -o myoutputdir/ -p1 10 -p2 10 
+
+```
+
 ## calculate_fst.py
 This script does calculates FST using various estimators by taking in a VCF file with SNP data for two populations.
 It was used to calculate the FST values that were input into MINOTAUR and GppFst.
