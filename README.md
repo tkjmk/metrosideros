@@ -1,6 +1,6 @@
-<div align="center">
-![readme image](images/readme_image.png)
-</div>
+<p align="center">
+  <img src="images/readme_image.png" alt="readme image" />
+</p>
 
 
 # About
