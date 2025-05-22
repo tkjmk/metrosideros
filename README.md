@@ -4,7 +4,7 @@
 
 
 # About
-This repository stores custom Python scripts that I wrote for the main project of my MRes Computation Methods in Ecology and Evolution at Imperical College London. This was a nine-month research project in the group of Vincent Savolainen, investigating the sympatric speciation event of _Metrosideros sclerocarpa_ and _M. nervulosa_. The work has been published and is available at [Osborne, Owen G., Tane Kafle, Tom Brewer, Mariya P. Dobreva, Ian Hutton, and Vincent Savolainen. 2020. ‘Sympatric Speciation in Mountain Roses (Metrosideros) on an Oceanic Island’. Philosophical Transactions of the Royal Society B: Biological Sciences](https://doi.org/10.1098/rstb.2019.0542).
+This repository stores custom Python scripts that I wrote for the main project of my MRes Computational Methods in Ecology and Evolution at Imperial College London. This work was completed during a nine-month research project in the group of Vincent Savolainen, investigating the sympatric speciation event of _Metrosideros sclerocarpa_ and _M. nervulosa_. The work has been published and is available at [Osborne, Owen G., Tane Kafle, Tom Brewer, Mariya P. Dobreva, Ian Hutton, and Vincent Savolainen. 2020. ‘Sympatric Speciation in Mountain Roses (Metrosideros) on an Oceanic Island’. Philosophical Transactions of the Royal Society B: Biological Sciences](https://doi.org/10.1098/rstb.2019.0542).
 
 
 # Scripts
